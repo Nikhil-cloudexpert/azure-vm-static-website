@@ -26,4 +26,7 @@ Azure resources were stopped/deleted after successful deployment to avoid unnece
 - Cloud cost awareness
 - Technical documentation
 
+## Screenshots
+Screenshots of Azure VM setup, SSH access, and website output are available in the `screenshots` folder.
+
 **Author:** Nikhil Singh
