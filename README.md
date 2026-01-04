@@ -26,6 +26,12 @@ Azure resources were stopped/deleted after successful deployment to avoid unnece
 - Cloud cost awareness
 - Technical documentation
 
+## Note
+
+This project was executed using a shared Azure student account for learning purposes.
+All configuration, deployment, and documentation work was performed by me.
+
+
 ## Screenshots
 Screenshots of Azure VM setup, SSH access, and website output are available in the `screenshots` folder.
 
