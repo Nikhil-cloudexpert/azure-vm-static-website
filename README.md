@@ -10,7 +10,7 @@ It covers VM creation, networking configuration, server setup, website deploymen
 The architecture below illustrates how user requests are routed through a public IP
 to an Azure Virtual Machine running Nginx, which serves static HTML and CSS files.
 
-![Architecture Diagram](screenshots/architecture/architecture-diagram.png)
+![Architecture Diagram](screenshots/Architecture/architecture-diagram.png)
 
 ---
 
@@ -27,10 +27,10 @@ to an Azure Virtual Machine running Nginx, which serves static HTML and CSS file
 ## Screenshots
 
 ### Website Access via Public IP
-![Website Live](screenshots/verification/website-live.png)
+![Website Live](screenshots/Verification/website-live.png)
 
 ### SSH Access to Azure Virtual Machine
-![SSH Access](screenshots/server/ssh-login.png)
+![SSH Access](screenshots/Server/ssh-login.png)
 
 Additional screenshots related to VM setup, networking, and deployment
 are available in the `screenshots` folder.
